@@ -1,0 +1,29 @@
+{
+  "name": "ea-list",
+  "version": "1.0.0",
+  "description": "manage and edit lists of files quickly via ba(sh)",
+  "bin": {
+    "al": "al",
+    "el": "el"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagb4rd/ea-list.git"
+  },
+  "keywords": [
+    "sh",
+    "bash",
+    "list",
+    "el",
+    "al"
+  ],
+  "author": "hagb4rd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hagb4rd/ea-list/issues"
+  },
+  "homepage": "https://github.com/hagb4rd/ea-list#readme"
+}
